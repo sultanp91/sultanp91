@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I'm Sultan.
+
+I'm a front end developer from London.
 
 <!--
 **sultanp91/sultanp91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
