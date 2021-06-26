@@ -3,8 +3,7 @@
 
 Skills: REACT / JS / HTML / CSS / SASS
 
-- 🔭 I’m currently working on Battleship...
-- 🌱 I’m currently learning Jest / TDD 
+- 🌱 I’m currently learning Node
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sultanp91)](https://github.com/anuraghazra/github-readme-stats)
 
